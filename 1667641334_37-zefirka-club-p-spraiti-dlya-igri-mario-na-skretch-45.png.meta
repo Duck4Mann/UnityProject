@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: aa00fc6d0f9f305459632b4277dfa6bd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 255
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1667641334_37-zefirka-club-p-spraiti-dlya-igri-mario-na-skretch-45_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 704
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c307bc22baab1459ec5692682e4865
+      internalID: -261058387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1667641334_37-zefirka-club-p-spraiti-dlya-igri-mario-na-skretch-45_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 720
+        width: 257
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67e76dbe71b5bf44b3eb2a2cf0586b0
+      internalID: 1805604868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1667641334_37-zefirka-club-p-spraiti-dlya-igri-mario-na-skretch-45_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 258
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97, y: 136}
+        - {x: -97, y: -136}
+        - {x: 129, y: -136}
+        - {x: 129, y: 136}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e84a5862345f34cb9b38beb04ec502
+      internalID: -951126736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1667641334_37-zefirka-club-p-spraiti-dlya-igri-mario-na-skretch-45_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 320
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a608f8c628bc6a4b80e43e15ba40544
+      internalID: -999537934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1667641334_37-zefirka-club-p-spraiti-dlya-igri-mario-na-skretch-45_4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -112, y: 128}
+        - {x: -112, y: 112}
+        - {x: -128, y: 112}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 112}
+        - {x: 112, y: 112}
+        - {x: 112, y: 128}
+      physicsShape: []
+      tessellationDetail: 0.18
+      bones: []
+      spriteID: 91d8d704666bf2246bf582fa4a3d59d5
+      internalID: 480200345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1667641334_37-zefirka-club-p-spraiti-dlya-igri-mario-na-skretch-45_5
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 112
+        width: 257
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15456703edda81043a1f45a941e59c88
+      internalID: 585239904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1667641334_37-zefirka-club-p-spraiti-dlya-igri-mario-na-skretch-45_6
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 720
+        width: 254
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0f082d17caa674b8b4bc3b8c45ad09
+      internalID: 871356329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1667641334_37-zefirka-club-p-spraiti-dlya-igri-mario-na-skretch-45_7
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 448
+        width: 256
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 136}
+        - {x: -128, y: -136}
+        - {x: 96, y: -136}
+        - {x: 96, y: 136}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6d82a3bd8361a449ac786055ff3bfe
+      internalID: 1273093606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1667641334_37-zefirka-club-p-spraiti-dlya-igri-mario-na-skretch-45_8
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 544
+        width: 321
+        height: 400
+      alignment: 9
+      pivot: {x: 0.8099688, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.5, y: 200}
+        - {x: 64.5, y: 184}
+        - {x: 48.5, y: 184}
+        - {x: 48.5, y: 168}
+        - {x: 32.5, y: 168}
+        - {x: 32.5, y: 104}
+        - {x: 48.5, y: 104}
+        - {x: 48.5, y: 88}
+        - {x: 64.5, y: 88}
+        - {x: 64.5, y: 72}
+        - {x: 80.5, y: 72}
+        - {x: 80.5, y: 56}
+        - {x: -159.5, y: 56}
+        - {x: -159.5, y: 40}
+        - {x: -143.5, y: 40}
+        - {x: -143.5, y: 24}
+        - {x: -127.5, y: 24}
+        - {x: -127.5, y: 8}
+        - {x: -111.5, y: 8}
+        - {x: -111.5, y: -8}
+        - {x: -95.5, y: -8}
+        - {x: -95.5, y: -24}
+        - {x: -79.5, y: -24}
+        - {x: -79.5, y: -40}
+        - {x: -63.5, y: -40}
+        - {x: -63.5, y: -56}
+        - {x: -47.5, y: -56}
+        - {x: -47.5, y: -72}
+        - {x: -31.5, y: -72}
+        - {x: -31.5, y: -88}
+        - {x: -15.5, y: -88}
+        - {x: -15.5, y: -104}
+        - {x: 0.5, y: -104}
+        - {x: 0.5, y: -120}
+        - {x: 16.5, y: -120}
+        - {x: 16.5, y: -136}
+        - {x: 32.5, y: -136}
+        - {x: 32.5, y: -152}
+        - {x: 48.5, y: -152}
+        - {x: 48.5, y: -168}
+        - {x: 64.5, y: -168}
+        - {x: 64.5, y: -184}
+        - {x: 80.5, y: -184}
+        - {x: 80.5, y: -200}
+        - {x: 112.5, y: -200}
+        - {x: 112.5, y: 72}
+        - {x: 128.5, y: 72}
+        - {x: 128.5, y: 88}
+        - {x: 144.5, y: 88}
+        - {x: 144.5, y: 104}
+        - {x: 160.5, y: 104}
+        - {x: 160.5, y: 168}
+        - {x: 144.5, y: 168}
+        - {x: 144.5, y: 184}
+        - {x: 128.5, y: 184}
+        - {x: 128.5, y: 200}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567e6c9fdf657fb41aca9135abb350d3
+      internalID: 383149203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1667641334_37-zefirka-club-p-spraiti-dlya-igri-mario-na-skretch-45_9
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 208
+        width: 321
+        height: 336
+      alignment: 9
+      pivot: {x: 0.8099688, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80.5, y: 168}
+        - {x: 80.5, y: -168}
+        - {x: 112.5, y: -168}
+        - {x: 112.5, y: 168}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5d003eead26bb41ad23ec932a98e79
+      internalID: -685246827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1667641334_37-zefirka-club-p-spraiti-dlya-igri-mario-na-skretch-45_0: -261058387
+      1667641334_37-zefirka-club-p-spraiti-dlya-igri-mario-na-skretch-45_1: 1805604868
+      1667641334_37-zefirka-club-p-spraiti-dlya-igri-mario-na-skretch-45_2: -951126736
+      1667641334_37-zefirka-club-p-spraiti-dlya-igri-mario-na-skretch-45_3: -999537934
+      1667641334_37-zefirka-club-p-spraiti-dlya-igri-mario-na-skretch-45_4: 480200345
+      1667641334_37-zefirka-club-p-spraiti-dlya-igri-mario-na-skretch-45_5: 585239904
+      1667641334_37-zefirka-club-p-spraiti-dlya-igri-mario-na-skretch-45_6: 871356329
+      1667641334_37-zefirka-club-p-spraiti-dlya-igri-mario-na-skretch-45_7: 1273093606
+      1667641334_37-zefirka-club-p-spraiti-dlya-igri-mario-na-skretch-45_8: 383149203
+      1667641334_37-zefirka-club-p-spraiti-dlya-igri-mario-na-skretch-45_9: -685246827
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

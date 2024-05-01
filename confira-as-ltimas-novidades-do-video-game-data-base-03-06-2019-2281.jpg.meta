@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: fcbf5c3a1886dcd44a59fee3337561b9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7562de562366004094cd4f14d5db5b6
+      internalID: 691667609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82, y: 200}
+        - {x: 82, y: 19}
+        - {x: -99, y: 19}
+        - {x: -99, y: 200}
+        - {x: -200, y: 200}
+        - {x: -200, y: -200}
+        - {x: 200, y: -200}
+        - {x: 200, y: 200}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3179ccf03b16e5459600532979c8e2e
+      internalID: -1842573319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79, y: 200}
+        - {x: 79, y: 18}
+        - {x: -102, y: 18}
+        - {x: -102, y: 200}
+        - {x: -200, y: 200}
+        - {x: -200, y: -200}
+        - {x: 200, y: -200}
+        - {x: 200, y: 200}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b727749f1739547a4973729aeee6ce
+      internalID: -925926726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.51965, y: 200}
+        - {x: 77, y: 18}
+        - {x: -93, y: 18}
+        - {x: -92.7229, y: 200}
+        - {x: -200, y: 200}
+        - {x: -200, y: -200}
+        - {x: 200, y: -200}
+        - {x: 200, y: 200}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453ff30cd77f49040b0adbcc07cf7bcc
+      internalID: -439649247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_4
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398d8c69aa1c83e4aa6fd91ee39b272b
+      internalID: -1716560183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc49878696c11e24881ea2d606d4a986
+      internalID: -1144259451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d881167baa700204c83b35e4d47a6e0a
+      internalID: 1563006946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_7
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f3fc65612c3454f8ec323b0adf3f35
+      internalID: 1242284003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e9cea258f9c5349b4f73829b1eb98f
+      internalID: -1116484411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_9
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5eba0860ff701419a4c914e3a4d41c
+      internalID: -1865677986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.02121, y: 200}
+        - {x: 72, y: 23}
+        - {x: -97, y: 23}
+        - {x: -97, y: 200}
+        - {x: -200, y: 200}
+        - {x: -200, y: -200}
+        - {x: 200, y: -200}
+        - {x: 200, y: 200}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7bdeabbd88a3f4a80971b180776cd0
+      internalID: 725927842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846580599d9745048acfe39d8007303f
+      internalID: -920602087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_12
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46d2e370296e764a9a6411b6ffc2609
+      internalID: 1437824405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42916fe2a285c8342a59991e4070991f
+      internalID: 2062489200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_14
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.88757, y: 200}
+        - {x: 75, y: 23}
+        - {x: -95, y: 23}
+        - {x: -95, y: 200}
+        - {x: -200, y: 200}
+        - {x: -200, y: -200}
+        - {x: 200, y: -200}
+        - {x: 200, y: 200}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3409cb7bc359b48ad687c46ba14107
+      internalID: -350552408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d591504afc2c33742894c1f69ef4c167
+      internalID: 987773989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9bd5dbfd1262a4b9b0f1e14a75a8b2
+      internalID: 1638867390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0cc91862f411c409ac1d78d9b40600
+      internalID: 679714853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_18
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e4b65be23de4b4b80f309c69d8b80f
+      internalID: 344832473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_19
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac005fa545db1c46b0c60726ef7bab4
+      internalID: -1949572216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fc5d96ee3c9bf41b77edc6e85c741b
+      internalID: -376144510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0560b1ded010f45a2f93ec468f1de0
+      internalID: -1592675543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baf4cb1035c4b342857eef83e313926
+      internalID: 1246397254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_23
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0beb223ce292ec741b66ea04d4358292
+      internalID: 367557446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_24
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c38b33d040b6a24eb875d9395ebda16
+      internalID: -531960283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_0: 691667609
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_1: -1842573319
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_10: 725927842
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_11: -920602087
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_12: 1437824405
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_13: 2062489200
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_14: -350552408
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_15: 987773989
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_16: 1638867390
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_17: 679714853
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_18: 344832473
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_19: -1949572216
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_2: -925926726
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_20: -376144510
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_21: -1592675543
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_22: 1246397254
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_23: 367557446
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_24: -531960283
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_3: -439649247
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_4: -1716560183
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_5: -1144259451
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_6: 1563006946
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_7: 1242284003
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_8: -1116484411
+      confira-as-ltimas-novidades-do-video-game-data-base-03-06-2019-2281_9: -1865677986
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
