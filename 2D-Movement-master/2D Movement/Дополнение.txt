@@ -1,0 +1,25 @@
+Unity hub
+Видео установка
+https://www.youtube.com/watch?v=MWGy83V7Tn8
+
+Про tileset
+https://www.youtube.com/watch?v=DbzH-Z1fbU4
+
+Небольшой список open-source игр на юнити
+https://github.com/UnityCommunity/UnityLibrary
+https://github.com/akinmustafa/awesome-unity-games 
+
+БЫСТРЫЙ ТУТОРИАЛ
+https://www.youtube.com/playlist?list=PL8Wm13VrP6MRPpAMqzblFZ3HVgXACltQs
+
+Про более сложных врагов
+https://www.youtube.com/watch?v=K2SbThbGw6w&t=631s
+
+Вариативный прыжок
+https://www.youtube.com/watch?v=Mo1-sKYbks0&t=4s
+
+Анимация падения
+https://www.youtube.com/watch?v=xHargJbONls
+
+Coyote Time & Jump Buffering In Unity Довольно полезно
+https://www.youtube.com/watch?v=RFix_Kg2Di0
